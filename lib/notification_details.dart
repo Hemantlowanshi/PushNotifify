@@ -34,6 +34,8 @@ class NotificationDetailsPage extends StatelessWidget {
                 'Status: ${data['status'] ?? 'N/A'}',
                 style: const TextStyle(fontSize: 16),
               ),
+
+
             ],
           ),
         ),
